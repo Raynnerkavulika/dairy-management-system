@@ -53,3 +53,14 @@ section{
 html{
     font-size: 65%;
 }
+
+
+
+@media (max-width:991px){
+
+   html{
+      font-size: 55%;
+   }
+
+}
+
